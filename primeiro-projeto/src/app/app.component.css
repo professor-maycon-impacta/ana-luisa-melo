@@ -1,0 +1,28 @@
+img{
+    border-radius: 50px;
+    width: 100px;
+}
+header{
+    display: flex;
+    align-items:center;
+    background-color: grey;
+}
+
+header div{
+    padding: 20px;
+}
+
+article{
+    padding: 20px;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: grey;
+}
+
+.principal{
+    width: 50%;
+    border: 1px solid rgba(0, 0, 0, 0.486);
+    box-shadow: 3px 4px 8px rgba(0, 0, 0, 0.5);
+}
